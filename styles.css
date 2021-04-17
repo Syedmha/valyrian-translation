@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@300&display=swap');
+
+*
+{
+    font-family: 'Grenze Gotisch', cursive;
+}
+body{
+    margin: 0rem;
+    font-size: x-large;
+    background-image: url("images/valyrian.jpeg");
+    background-size: cover;
+    position:inherit;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: auto;
+    width: auto;
+    padding-bottom: 14rem;
+    
+}
+textarea
+{
+    display: block;
+    text-align: left;
+    min-height: 6rem;
+    width: 60%;
+    margin: 0 auto;
+    font-size: 1rem;
+}
+
+#btn {
+    font-size: 1rem;
+    margin: 1rem;
+    background-color: yellow;
+    border: none;
+    border-radius: 5px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    outline: inherit;
+    font-size: large;
+   
+  }
+  
+  #display {
+    border: 1px solid black;
+    min-height: 15vh;
+    width: 60%;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  header
+{
+    background-color: bisque;
+    padding: 1rem; 
+    text-align: center;
+    font-size: large;
+    margin-bottom: 5rem;
+
+
+}
+#bttn
+{
+    text-align: center;
+}
+
+footer {
+    background-color:peru;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    width: 100%;
+    padding: 1vh 0;
+  }
+
+  #text-input
+  {
+      font-size: x-large;
+  }
+
+  
